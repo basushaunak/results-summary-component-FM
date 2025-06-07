@@ -1,0 +1,10 @@
+/* hanken-grotesk */
+@font-face {
+	font-family: Hanken Grotesk;
+	font-style: normal;
+	font-weight: 100 900;
+	font-stretch: 100%;
+	src: local("Hanken Grotesk Regular"), local("HankenGrotesk-Regular"), url(hanken-grotesk.woff2) format("woff2"), url(hanken-grotesk.woff) format("woff");
+	font-display: auto;
+}
+
